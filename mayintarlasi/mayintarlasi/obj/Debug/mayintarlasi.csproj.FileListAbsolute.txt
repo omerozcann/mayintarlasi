@@ -1,0 +1,10 @@
+D:\Belgeler\Visual Studio 2019\Projects\mayintarlasi\mayintarlasi\bin\Debug\mayintarlasi.exe.config
+D:\Belgeler\Visual Studio 2019\Projects\mayintarlasi\mayintarlasi\bin\Debug\mayintarlasi.exe
+D:\Belgeler\Visual Studio 2019\Projects\mayintarlasi\mayintarlasi\bin\Debug\mayintarlasi.pdb
+D:\Belgeler\Visual Studio 2019\Projects\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.csproj.AssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.mayinFrm.resources
+D:\Belgeler\Visual Studio 2019\Projects\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2019\Projects\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2019\Projects\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.exe
+D:\Belgeler\Visual Studio 2019\Projects\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.pdb
